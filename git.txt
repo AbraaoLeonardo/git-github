@@ -1,0 +1,4 @@
+git checkout -b 'nome-da-branch' // cria uma nova branch
+git checkout nome-da-branch // muda a branch
+git merge nome-da-branch // merge main com a nome-da-branch e depois dar push para adicionar ambas as branchs
+git branch -d nome-da-branch // remove a branch
